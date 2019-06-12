@@ -3,7 +3,7 @@
 ### Getting started
 
 - Run the following command to clone the repo *(or just download the zip file and extract it if you don't have git)*
-` git clone https://github.com/mohshbool/marzipano-360-demo.git`
+`git clone https://github.com/mohshbool/marzipano-360-demo.git`
 - Download the latest relase* from [their website](https://www.marzipano.net/) and unpack it in the root of the project
 
 **\*This project was tested only on version 0.9.0**
